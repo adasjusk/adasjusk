@@ -1,5 +1,9 @@
 <p align="center"><img src="https://github.com/user-attachments/assets/c58e8e88-b1e2-43fc-94c9-b271eccbff88" /></p>
 
+### Hi there 👋
+
+My name is Adas. mainly play CSGO.
+
 ### 🍊 Socials
 <a href="https://www.theadas.com/" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/badge/Website-gray?style=flat-square" /></a>
