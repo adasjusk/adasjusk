@@ -16,5 +16,6 @@ See Me More At My YouTube And Instagram 📸
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/refs/heads/main/programming%20languages/bash.svg" alt="BAT" height="50" width="50" />
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/refs/heads/main/programming%20languages/python.svg" alt="PY" height="50" width="50" />
 
-
-
+### GITHUB STATS
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adasjusk&show_icons=true&locale=en" alt="adasjusk" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adasjusk&show_icons=true&locale=en&layout=compact" alt="my stats" /></p>
