@@ -2,7 +2,7 @@
 
 I'm **Adas**
 
-🐧 I use Arch BTW <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/archlinux/archlinux-original.svg" height="19" alt="arch logo"  /> <br>
+🐧 I use Arch BTW <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" height="19" alt="arch logo"  /> <br>
 🌱 I’m currently learning **Java And React**. I make programs and study a lot. <br>
 ✨ Trying To Make Windows Apps Mini Ecosystem
 
@@ -26,7 +26,7 @@ I'm **Adas**
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/vim/vim-original.svg" height="30" alt="arch logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" height="30" alt="arch logo"  />
 </div>
 
 ###
