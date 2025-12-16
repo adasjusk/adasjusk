@@ -3,7 +3,7 @@
 I'm **Adas**
 
 🐧 I use Arch BTW <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" height="19" alt="arch logo"  /> <br>
-🌱 I’m currently learning **C and C# (fuck you react)**. I make programs and study a lot. <br>
+🌱 I’m currently learning **C++ and react**. I make programs and study a lot. <br>
 ✨ Trying To Make Windows Apps Mini Ecosystem and plugins for games
 
 ## 🧑‍💻 Languages And Tools:
@@ -13,6 +13,8 @@ I'm **Adas**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="vs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="c# logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -28,13 +30,21 @@ I'm **Adas**
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vsc logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="30" alt="vsc logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="30" alt="vsc logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="vsc logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="30" alt="vsc logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="vsc logo"  />
+  <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" height="30" alt="arch logo"  />
 </div>
 
 ###
 
 ## 📊 GitHub Stats
-<div align="center">
-
-<br clear="both">
-<img src="https://raw.githubusercontent.com/rishav12s/rishav12s/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/adasjusk/adasjusk/main/github-metrics.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/adasjusk/adasjusk/snake/snake.svg" alt="Snake animation" />
