@@ -5,6 +5,7 @@ I'm **Adas**
 🐧 I use Arch BTW <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" height="19" alt="arch logo"  /> <br>
 🌱 I’m currently learning **C++ and react**. I make programs and study a lot. <br>
 ✨ Trying To Make Windows Apps Mini Ecosystem and plugins for games
+🗨️ My discord: xxadasjuskxx and email (i will reply from other email) : adasjusk@oranges.lt
 
 ## 🧑‍💻 Languages And Tools:
 ###
