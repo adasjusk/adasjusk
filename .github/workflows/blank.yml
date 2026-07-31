@@ -3,17 +3,18 @@ on:
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
   push: {branches: ["main"]}
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    environment: 
-      name: token
     permissions:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
+        timeout-minutes: 10
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: adasjusk
           template: classic
           base: header, activity
