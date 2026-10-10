@@ -25,12 +25,10 @@ I'm **Adas**
 ###
 
 ## 📊 GitHub Stats
-<table>
-<tr>
-<td valign="top"><img src="./adas-ascii.svg" width="500"/></td>
-<td valign="top"><img src="https://raw.githubusercontent.com/adasjusk/adasjusk/main/github-metrics.svg" width="680"/></td>
-</tr>
-</table>
+<p>
+	<img src="./adas-ascii.svg" width="330" align="top"/>
+	<img src="https://raw.githubusercontent.com/adasjusk/adasjusk/main/github-metrics.svg" width="450" align="top"/>
+</p>
 
 <h3><code>adasjusk@github ~ $ ./contributions.sh</code></h3>
 
