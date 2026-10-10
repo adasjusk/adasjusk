@@ -1,0 +1,24 @@
+name: Contributions graph
+on:
+  schedule: [{cron: "17 6 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["main"]}
+
+permissions:
+  contents: write
+
+jobs:
+  graph:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r scripts/requirements.txt
+      - run: python scripts/fetch_contributions.py
+      - run: python scripts/generate_streak_svg.py adasjusk contrib-heatmap.svg
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update contrib-heatmap.svg [skip ci]"
+          file_pattern: "data/contributions.json contrib-heatmap.svg"

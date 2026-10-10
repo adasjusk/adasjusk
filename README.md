@@ -22,11 +22,18 @@ I'm **Adas**
 </div>
 
 
-
 ###
 
 ## 📊 GitHub Stats
-<img src="https://raw.githubusercontent.com/adasjusk/adasjusk/main/github-metrics.svg" alt="Snake animation" />
-<img src="https://raw.githubusercontent.com/adasjusk/adasjusk/snake/snake.svg" alt="Snake animation" />
+<table>
+<tr>
+<td valign="top"><img src="./adas-ascii.svg" width="500"/></td>
+<td valign="top"><img src="https://raw.githubusercontent.com/adasjusk/adasjusk/main/github-metrics.svg" width="680"/></td>
+</tr>
+</table>
 
-Check out my website: https://oranges.lt/
+<h3><code>adasjusk@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="contribution graph" />
+
+### Check out my website: https://oranges.lt/
